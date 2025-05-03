@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EcoEdu - Trò chơi bảo vệ môi trường</title>
+    <link rel="stylesheet" href="EcoEdu.css">
+</head>
+
+<body>
+    <h1>🌿 EcoEdu - Trò chơi bảo vệ môi trường</h1>
+
+    <div class="quiz_timer_wrapper">
+        <div class="quiz_timer">
+            <div class="quiz_timer_text">
+                <span>⏰ Thời gian còn lại</span>
+                <p id="timer">14:00:00</p>
+            </div>
+        </div>
+    </div>
+
+    <h2>🧠 Phần 1: Trắc nghiệm</h2>
+    <div class="quiz_wrapper">
+        <div class="quiz_container">
+            <div class="quiz_question">
+                <h5>Question 4 of 10</h5>
+                <p id="quiz_title">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
+                    delectus et magni harum atque, ex nostrum quaerat?
+                </p>
+                <ul>
+                    <li><span>A.</span><span class="quiz_answer_item">harum</span></li>
+                    <li><span>B.</span><span class="quiz_answer_item">harum</span></li>
+                    <li><span>C.</span><span class="quiz_answer_item">harum</span></li>
+                    <li><span>D.</span><span class="quiz_answer_item">harum</span></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="quiz_numbers">
+            <button id="quiz_prev">Prev</button>
+            <ul></ul>
+            <button id="quiz_next">Next</button>
+        </div>
+    </div>
+
+    <h2>♻️ Phần 2: Kéo rác đúng thùng</h2>
+    <div class="drag-area" id="trash-items"></div>
+    <div class="bin-area">
+        <div class="bin" data-type="Hữu cơ">Hữu cơ</div>
+        <div class="bin" data-type="Vô cơ">Vô cơ</div>
+        <div class="bin" data-type="Tái chế">Tái chế</div>
+        <div class="bin" data-type="Nguy hại">Nguy hại</div>
+    </div>
+
+    <div class="submit-container">
+        <button id="submit-btn" onclick="submitGame()">✅ Hoàn thành</button>
+    </div>
+
+    <div id="overlay"></div>
+    <div id="final-score">
+        <h1>🏆 Tổng kết</h1>
+        <p id="select-score">📘 Điểm phần trắc nghiệm của bạn là: <span></span></p>
+        <p id="trash-score">🗑️ Điểm phần kéo thả của bạn là: <span></span></p>
+        <p class="all-score">🎯 Tổng điểm của bạn là: <span></span></p>
+        <div class="awards">🎉 Cảm ơn bạn đã tham gia! 🎉</div>
+    </div>
+
+    <script src="EcoEdu.js"></script>
+</body>
+
+</html>

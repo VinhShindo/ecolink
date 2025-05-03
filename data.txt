@@ -1,0 +1,140 @@
+{
+  "multipleChoice": {
+    "quizz": [
+      {
+        "id": 1,
+        "question": "Vỏ hộp sữa giấy đã dùng?",
+        "answers": ["Vô cơ", "Hữu cơ", "Tái chế", "Nguy hại"]
+      },
+      {
+        "id": 2,
+        "question": "Vỏ chuối, rau thừa là loại rác gì?",
+        "answers": ["Vô cơ", "Hữu cơ", "Tái chế", "Nguy hại"]
+      },
+      {
+        "id": 3,
+        "question": "Ống hút nhựa nên xử lý như thế nào?",
+        "answers": ["Tái chế", "Vô cơ", "Hữu cơ", "Nguy hại"]
+      },
+      {
+        "id": 4,
+        "question": "Pin cũ đã dùng xong?",
+        "answers": ["Tái chế", "Nguy hại", "Hữu cơ", "Vô cơ"]
+      },
+      {
+        "id": 5,
+        "question": "Bạn nên mang theo gì khi đi chợ?",
+        "answers": ["Túi nilon", "Túi giấy", "Túi vải", "Không mang gì"]
+      },
+      {
+        "id": 6,
+        "question": "Loại rác nào sau đây thuộc tái chế?",
+        "answers": ["Vỏ dưa hấu", "Chai nhựa", "Rác thải y tế", "Đồ ăn thừa"]
+      },
+      {
+        "id": 7,
+        "question": "Chất thải điện tử thuộc nhóm nào?",
+        "answers": ["Tái chế", "Vô cơ", "Nguy hại", "Hữu cơ"]
+      },
+      {
+        "id": 8,
+        "question": "Túi nilon mất bao lâu để phân hủy?",
+        "answers": ["5 năm", "20 năm", "100 năm", ">500 năm"]
+      },
+      {
+        "id": 9,
+        "question": "Giấy ăn đã dùng nên xử lý ra sao?",
+        "answers": ["Hữu cơ", "Vô cơ", "Tái chế", "Nguy hại"]
+      },
+      {
+        "id": 10,
+        "question": "Lốp xe hỏng thuộc loại rác gì?",
+        "answers": ["Vô cơ", "Hữu cơ", "Nguy hại", "Tái chế"]
+      },
+      {
+        "id": 11,
+        "question": "Vỏ chai nước nhựa nên được xử lý như thế nào?",
+        "answers": ["Tái chế", "Hữu cơ", "Vô cơ", "Nguy hại"]
+      },
+      {
+        "id": 12,
+        "question": "Đâu là hành động giúp bảo vệ môi trường?",
+        "answers": ["Vứt rác bừa bãi", "Tái sử dụng đồ vật", "Đốt rác nhựa", "Sử dụng túi nilon"]
+      },
+      {
+        "id": 13,
+        "question": "Rác thải y tế cần được xử lý thế nào?",
+        "answers": ["Hữu cơ", "Tái chế", "Nguy hại", "Vô cơ"]
+      },
+      {
+        "id": 14,
+        "question": "Rác nào sau đây là hữu cơ?",
+        "answers": ["Vỏ cam", "Túi nilon", "Chai nhựa", "Hộp xốp"]
+      },
+      {
+        "id": 15,
+        "question": "Cách tiết kiệm điện năng?",
+        "answers": ["Bật đèn cả ngày", "Tắt thiết bị không dùng", "Mở máy lạnh suốt", "Dùng điện giờ cao điểm"]
+      },
+      {
+        "id": 16,
+        "question": "Thùng rác màu xanh thường dùng để chứa gì?",
+        "answers": ["Hữu cơ", "Tái chế", "Nguy hại", "Vô cơ"]
+      },
+      {
+        "id": 17,
+        "question": "Thói quen nào giúp tiết kiệm nước?",
+        "answers": ["Tắm 30 phút", "Khoá vòi khi đánh răng", "Xả nước liên tục", "Tưới cây cả ngày"]
+      },
+      {
+        "id": 18,
+        "question": "Vải vụn nên xử lý thế nào?",
+        "answers": ["Vô cơ", "Tái chế", "Hữu cơ", "Nguy hại"]
+      },
+      {
+        "id": 19,
+        "question": "Rác thải nhựa có thể gây hại như thế nào?",
+        "answers": ["Phân huỷ nhanh", "Làm đẹp thiên nhiên", "Gây ô nhiễm", "Bổ dưỡng cho đất"]
+      },
+      {
+        "id": 20,
+        "question": "Làm thế nào để giảm rác thải?",
+        "answers": ["Dùng đồ nhựa", "Tái sử dụng, tái chế", "Xả rác ra đường", "Không phân loại rác"]
+      }
+    ],
+    "results": [
+      { "quiz_id": 1, "answer": "Tái chế" },
+      { "quiz_id": 2, "answer": "Hữu cơ" },
+      { "quiz_id": 3, "answer": "Vô cơ" },
+      { "quiz_id": 4, "answer": "Nguy hại" },
+      { "quiz_id": 5, "answer": "Túi vải" },
+      { "quiz_id": 6, "answer": "Chai nhựa" },
+      { "quiz_id": 7, "answer": "Nguy hại" },
+      { "quiz_id": 8, "answer": ">500 năm" },
+      { "quiz_id": 9, "answer": "Hữu cơ" },
+      { "quiz_id": 10, "answer": "Vô cơ" },
+      { "quiz_id": 11, "answer": "Tái chế" },
+      { "quiz_id": 12, "answer": "Tái sử dụng đồ vật" },
+      { "quiz_id": 13, "answer": "Nguy hại" },
+      { "quiz_id": 14, "answer": "Vỏ cam" },
+      { "quiz_id": 15, "answer": "Tắt thiết bị không dùng" },
+      { "quiz_id": 16, "answer": "Tái chế" },
+      { "quiz_id": 17, "answer": "Khoá vòi khi đánh răng" },
+      { "quiz_id": 18, "answer": "Vô cơ" },
+      { "quiz_id": 19, "answer": "Gây ô nhiễm" },
+      { "quiz_id": 20, "answer": "Tái sử dụng, tái chế" }
+    ]
+  },
+  "dragQuestion": [
+    { "name": "Vỏ chuối", "type": "Hữu cơ" },
+    { "name": "Ống hút nhựa", "type": "Vô cơ" },
+    { "name": "Giấy báo cũ", "type": "Tái chế" },
+    { "name": "Pin", "type": "Nguy hại" },
+    { "name": "Lá cây rụng", "type": "Hữu cơ" },
+    { "name": "Hộp xốp", "type": "Vô cơ" },
+    { "name": "Chai nhựa", "type": "Tái chế" },
+    { "name": "Thuốc trừ sâu hết hạn", "type": "Nguy hại" },
+    { "name": "Vỏ trứng", "type": "Hữu cơ" },
+    { "name": "Bóng đèn hỏng", "type": "Nguy hại" }
+  ]
+}
