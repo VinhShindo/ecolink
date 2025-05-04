@@ -37,7 +37,43 @@ button {
     cursor: pointer;
     transition: 0.5s;
 }
+/* ===================== Start ===================== */
+#start-button {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+    padding: 15px 30px;
+    font-size: 20px;
+    color: white;
+    background: linear-gradient(135deg, #00bcd4, #2196f3);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0 0 15px rgba(0, 188, 212, 0.6);
+    animation: pulse 2s infinite;
+    transition: all 0.6s ease;
+    opacity: 1;
+}
 
+#start-button:hover {
+    background: linear-gradient(135deg, #2196f3, #00bcd4);
+    box-shadow: 0 0 25px rgba(0, 188, 212, 0.9);
+    transform: translate(-50%, -50%) scale(1.05);
+}
+
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 15px rgba(0, 188, 212, 0.6);
+    }
+    50% {
+        box-shadow: 0 0 25px rgba(0, 188, 212, 1);
+    }
+    100% {
+        box-shadow: 0 0 15px rgba(0, 188, 212, 0.6);
+    }
+}
 /* ===================== Quiz Layout ===================== */
 .quiz_wrapper {
     background-color: white;
@@ -85,11 +121,13 @@ button {
 .quiz_question ul li.active {
     background: var(--main-clr);
     color: white;
+    transition: 0.5s;
 }
 
 .quiz_question ul li.incorrect {
     background: red;
     color: white;
+    transition: 0.5s;
 }
 
 .quiz_question ul li span:nth-child(2) {
@@ -234,7 +272,6 @@ ul {
 }
 
 /* ===================== Overlay and Final Score ===================== */
-#overlay,
 #final-score {
     display: none;
 }
@@ -245,9 +282,10 @@ ul {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: black;
     z-index: 999;
-    transition: background-color 0.3s ease;
+    opacity: 1;
+    transition: opacity 0.6s ease;
 }
 
 #final-score {
