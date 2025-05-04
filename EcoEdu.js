@@ -22,6 +22,27 @@ let multipleData;
 let trashData;
 let timer;
 let remainingTime = 10 * 60;
+let elapsedTime = 0;
+
+document.getElementById("start-button").addEventListener("click", () => {
+    const overlay = document.getElementById("overlay");
+    const startBtn = document.getElementById("start-button");
+
+    overlay.style.opacity = "0";
+    startBtn.style.opacity = "0";
+
+    overlay.style.backgroundColor = "rgba(0, 0, 0, 0.6)";
+
+    setTimeout(() => {
+        overlay.style.display = "none";
+        startBtn.style.display = "none";
+
+        overlay.style.removeProperty("opacity");
+        startBtn.style.removeProperty("opacity");
+    }, 600);
+    startTimer();
+});
+
 
 // ==== Fetch & Initialization ====
 fetch("data.txt")
@@ -33,7 +54,6 @@ fetch("data.txt")
 
         renderQuestion(multipleData);
         loadTrashItems();
-        startTimer();
     })
     .catch(error => console.error('Error loading file:', error));
 
@@ -237,19 +257,21 @@ function submitGame() {
         alert(`⚠️ Bạn cần kéo thêm ${10 - Object.keys(trashAssignment).length} món rác`);
         return;
     }
-
+    clearInterval(timer);
     handleCheckResults(multipleData);
     renderResults();
-
+    
     dragScore = 0;
     Object.entries(trashAssignment).forEach(([idx, binType]) => {
         const item = trashData[idx];
         if (item && binType === item.type) dragScore++;
     });
-
+    const timeUsed = Math.floor(elapsedTime / 60).toString().padStart(2, '0') + ':' +
+                 (elapsedTime % 60).toString().padStart(2, '0');
     const total = quizScore + dragScore;
     let rating = total >= 25 ? "⭐ Xuất sắc" : total >= 18 ? "👍 Tốt" : "🔄 Cần cải thiện";
 
+    document.querySelector("#time-used span").textContent = timeUsed;
     document.querySelector("#select-score span").textContent = `${quizScore}/20`;
     document.querySelector("#trash-score span").textContent = `${dragScore}/10`;
     document.querySelector(".all-score span").textContent = `${total}/30 - ${rating}`;
@@ -284,10 +306,12 @@ function startTimer() {
             handleAutoSubmit();
         } else {
             remainingTime--;
+            elapsedTime++;
             updateTimerDisplay();
         }
     }, 1000);
 }
+
 
 function updateTimerDisplay() {
     const minutes = Math.floor(remainingTime / 60);
