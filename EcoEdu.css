@@ -452,4 +452,9 @@ ul {
         top: -7%;
         right: -10%;
     }
+
+    #start-button {
+        top: 50%;
+        left: 40%;
+    }
 }
