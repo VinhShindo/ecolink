@@ -227,6 +227,18 @@ ul {
     background: white;
     border: 1px solid var(--main-clr);
     color: var(--main-clr);
+    cursor: pointer;
+    transition: 0.3s ease;
+    outline: none;
+}
+
+.quiz_numbers > button:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.quiz_numbers > button:active {
+    transform: scale(0.98);
 }
 
 /* ===================== Drag and Drop ===================== */
