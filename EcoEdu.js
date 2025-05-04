@@ -90,7 +90,7 @@ function renderCurrentQuestion(data) {
 function handleQuestionList() {
     quizQuestions.forEach((item, index) => {
         item.addEventListener("click", () => {
-            item.scrollIntoView({ behavior: "smooth", inline: "center" });
+            item.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
             quizQuestions.forEach(el => el.classList.remove("active"));
             item.classList.add("active");
             currentIndex = index;
@@ -122,7 +122,7 @@ quizPrev.addEventListener("click", () => navigateQuestion(-1));
 
 function navigateQuestion(offset) {
     currentIndex = (currentIndex + offset + countQuestion) % countQuestion;
-    quizQuestions[currentIndex].scrollIntoView({ behavior: "smooth", inline: "center" });
+    quizQuestions[currentIndex].scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
     quizQuestions.forEach(el => el.classList.remove("active"));
     quizQuestions[currentIndex].classList.add("active");
 
