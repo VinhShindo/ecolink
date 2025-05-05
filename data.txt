@@ -3,138 +3,1642 @@
     "quizz": [
       {
         "id": 1,
-        "question": "Vỏ hộp sữa giấy đã dùng?",
-        "answers": ["Vô cơ", "Hữu cơ", "Tái chế", "Nguy hại"]
+        "question": "Cách nào giúp bảo vệ môi trường biển?",
+        "answers": [
+          "Không xả rác xuống biển",
+          "Tăng cường đánh bắt cá",
+          "Dùng nhiều nhựa",
+          "Đốt rác tại biển"
+        ]
       },
       {
         "id": 2,
-        "question": "Vỏ chuối, rau thừa là loại rác gì?",
-        "answers": ["Vô cơ", "Hữu cơ", "Tái chế", "Nguy hại"]
+        "question": "Tại sao cần tiết kiệm năng lượng?",
+        "answers": [
+          "Giảm chi phí",
+          "Bảo vệ tài nguyên",
+          "Giảm phát thải khí nhà kính",
+          "Tất cả các đáp án trên"
+        ]
       },
       {
         "id": 3,
-        "question": "Ống hút nhựa nên xử lý như thế nào?",
-        "answers": ["Tái chế", "Vô cơ", "Hữu cơ", "Nguy hại"]
+        "question": "Loại rác nào không thể tái chế?",
+        "answers": [
+          "Vỏ chuối",
+          "Chai thủy tinh",
+          "Lốp xe",
+          "Túi nilon"
+        ]
       },
       {
         "id": 4,
-        "question": "Pin cũ đã dùng xong?",
-        "answers": ["Tái chế", "Nguy hại", "Hữu cơ", "Vô cơ"]
+        "question": "Sử dụng phương tiện công cộng giúp giảm?",
+        "answers": [
+          "Ô nhiễm không khí",
+          "Công việc nhà",
+          "Giảm nhiệt độ",
+          "Để tiết kiệm tiền"
+        ]
       },
       {
         "id": 5,
-        "question": "Bạn nên mang theo gì khi đi chợ?",
-        "answers": ["Túi nilon", "Túi giấy", "Túi vải", "Không mang gì"]
+        "question": "Đâu là hành động sai khi muốn giảm thiểu rác thải nhựa?",
+        "answers": [
+          "Dùng chai nhựa một lần",
+          "Sử dụng túi vải",
+          "Sử dụng đồ thủy tinh",
+          "Tái chế đồ nhựa"
+        ]
       },
       {
         "id": 6,
-        "question": "Loại rác nào sau đây thuộc tái chế?",
-        "answers": ["Vỏ dưa hấu", "Chai nhựa", "Rác thải y tế", "Đồ ăn thừa"]
+        "question": "Lý do chính để bảo vệ nguồn nước?",
+        "answers": [
+          "Để cung cấp nước cho sinh hoạt",
+          "Để bảo vệ sức khỏe cộng đồng",
+          "Để đảm bảo sinh vật sống trong nước",
+          "Tất cả các đáp án trên"
+        ]
       },
       {
         "id": 7,
-        "question": "Chất thải điện tử thuộc nhóm nào?",
-        "answers": ["Tái chế", "Vô cơ", "Nguy hại", "Hữu cơ"]
+        "question": "Cách nào giúp bảo vệ hệ sinh thái rừng?",
+        "answers": [
+          "Trồng rừng mới",
+          "Chặt cây trái phép",
+          "Sử dụng gỗ bừa bãi",
+          "Không bảo vệ rừng"
+        ]
       },
       {
         "id": 8,
-        "question": "Túi nilon mất bao lâu để phân hủy?",
-        "answers": ["5 năm", "20 năm", "100 năm", ">500 năm"]
+        "question": "Thói quen nào giúp bảo vệ môi trường?",
+        "answers": [
+          "Dùng đồ nhựa một lần",
+          "Tiết kiệm điện",
+          "Không phân loại rác",
+          "Sử dụng nhiều túi nilon"
+        ]
       },
       {
         "id": 9,
-        "question": "Giấy ăn đã dùng nên xử lý ra sao?",
-        "answers": ["Hữu cơ", "Vô cơ", "Tái chế", "Nguy hại"]
+        "question": "Thùng rác màu đỏ thường dùng để chứa gì?",
+        "answers": [
+          "Rác thải y tế",
+          "Rác thải hữu cơ",
+          "Rác thải vô cơ",
+          "Rác thải tái chế"
+        ]
       },
       {
         "id": 10,
-        "question": "Lốp xe hỏng thuộc loại rác gì?",
-        "answers": ["Vô cơ", "Hữu cơ", "Nguy hại", "Tái chế"]
+        "question": "Để giảm thiểu rác thải, bạn nên làm gì?",
+        "answers": [
+          "Tái chế, tái sử dụng",
+          "Dùng đồ nhựa",
+          "Vứt rác bừa bãi",
+          "Mua nhiều đồ mới"
+        ]
       },
       {
         "id": 11,
-        "question": "Vỏ chai nước nhựa nên được xử lý như thế nào?",
-        "answers": ["Tái chế", "Hữu cơ", "Vô cơ", "Nguy hại"]
+        "question": "Bạn nên mang theo gì khi đi chợ?",
+        "answers": [
+          "Túi nilon",
+          "Túi giấy",
+          "Túi vải",
+          "Không mang gì"
+        ]
       },
       {
         "id": 12,
-        "question": "Đâu là hành động giúp bảo vệ môi trường?",
-        "answers": ["Vứt rác bừa bãi", "Tái sử dụng đồ vật", "Đốt rác nhựa", "Sử dụng túi nilon"]
+        "question": "Loại rác nào sau đây thuộc tái chế?",
+        "answers": [
+          "Vỏ dưa hấu",
+          "Chai nhựa",
+          "Rác thải y tế",
+          "Đồ ăn thừa"
+        ]
       },
       {
         "id": 13,
-        "question": "Rác thải y tế cần được xử lý thế nào?",
-        "answers": ["Hữu cơ", "Tái chế", "Nguy hại", "Vô cơ"]
+        "question": "Chất thải điện tử thuộc nhóm nào?",
+        "answers": [
+          "Tái chế",
+          "Vô cơ",
+          "Nguy hại",
+          "Hữu cơ"
+        ]
       },
       {
         "id": 14,
-        "question": "Rác nào sau đây là hữu cơ?",
-        "answers": ["Vỏ cam", "Túi nilon", "Chai nhựa", "Hộp xốp"]
+        "question": "Thùng rác màu đỏ thường dùng để chứa loại rác gì?",
+        "answers": [
+          "Rác hữu cơ",
+          "Rác tái chế",
+          "Rác nguy hại",
+          "Rác xây dựng"
+        ]
       },
       {
         "id": 15,
-        "question": "Cách tiết kiệm điện năng?",
-        "answers": ["Bật đèn cả ngày", "Tắt thiết bị không dùng", "Mở máy lạnh suốt", "Dùng điện giờ cao điểm"]
+        "question": "Đâu là hành động giúp bảo vệ môi trường?",
+        "answers": [
+          "Vứt rác bừa bãi",
+          "Tái sử dụng đồ vật",
+          "Đốt rác nhựa",
+          "Sử dụng túi nilon"
+        ]
       },
       {
         "id": 16,
-        "question": "Thùng rác màu xanh thường dùng để chứa gì?",
-        "answers": ["Hữu cơ", "Tái chế", "Nguy hại", "Vô cơ"]
+        "question": "Cách tiết kiệm điện năng?",
+        "answers": [
+          "Bật đèn cả ngày",
+          "Tắt thiết bị không dùng",
+          "Mở máy lạnh suốt",
+          "Dùng điện giờ cao điểm"
+        ]
       },
       {
         "id": 17,
-        "question": "Thói quen nào giúp tiết kiệm nước?",
-        "answers": ["Tắm 30 phút", "Khoá vòi khi đánh răng", "Xả nước liên tục", "Tưới cây cả ngày"]
+        "question": "Thùng rác màu xanh thường dùng để chứa gì?",
+        "answers": [
+          "Hữu cơ",
+          "Tái chế",
+          "Nguy hại",
+          "Vô cơ"
+        ]
       },
       {
         "id": 18,
-        "question": "Vải vụn nên xử lý thế nào?",
-        "answers": ["Vô cơ", "Tái chế", "Hữu cơ", "Nguy hại"]
+        "question": "Thói quen nào giúp tiết kiệm nước?",
+        "answers": [
+          "Tắm 30 phút",
+          "Khoá vòi khi đánh răng",
+          "Xả nước liên tục",
+          "Tưới cây cả ngày"
+        ]
       },
       {
         "id": 19,
         "question": "Rác thải nhựa có thể gây hại như thế nào?",
-        "answers": ["Phân huỷ nhanh", "Làm đẹp thiên nhiên", "Gây ô nhiễm", "Bổ dưỡng cho đất"]
+        "answers": [
+          "Phân huỷ nhanh",
+          "Làm đẹp thiên nhiên",
+          "Gây ô nhiễm",
+          "Bổ dưỡng cho đất"
+        ]
       },
       {
         "id": 20,
+        "question": "Chai nhựa sau khi sử dụng nên làm gì?",
+        "answers": [
+          "Vứt vào rác chung",
+          "Đốt bỏ",
+          "Mang đi tái chế",
+          "Chôn xuống đất"
+        ]
+      },
+      {
+        "id": 21,
+        "question": "Theo hướng dẫn kỹ thuật phân loại rác tại nguồn của Bộ Tài nguyên và Môi trường, chất thải rắn sinh hoạt được phân làm mấy loại?",
+        "answers": [
+          "3 loại gồm: chất thải tái chế, chất thải thực phẩm và chất thải khác",
+          "4 loại gồm: chất thải tái chế, chất thải thực phẩm, chất thải nguy hại và chất thải khác",
+          "2 loại gồm: chất thải tái chế và chất thải không tái chế"
+        ]
+      },
+      {
+        "id": 22,
+        "question": "Những loại chất thải rắn sinh hoạt nào sau đây có thể tái chế được?",
+        "answers": [
+          "Giấy thải, nhựa thải, kim loại thải",
+          "Giấy thải, nhựa thải, kim loại thải, thuỷ tinh thải",
+          "Giấy thải, vải, đồ da, đồ gỗ, cao su, thiết bị điện tử thải bỏ",
+          "Tất cả các đáp án trên"
+        ]
+      },
+      {
+        "id": 23,
+        "question": "Chất thải nguy hại gồm những loại gì?",
+        "answers": [
+          "Bao bì đựng thuốc BVTV, axit thải, dung môi thải, bình gas mini, v.v.",
+          "Bóng đèn huỳnh quang thải; thủy tinh hoạt tính thải; nhiệt kế chứa thủy ngân thải.",
+          "Các loại pin, ắc quy thải.",
+          "Tất cả các loại trên"
+        ]
+      },
+      {
+        "id": 24,
+        "question": "Chất lượng môi trường không khí ở Việt Nam (VN AQI) được phân làm mấy loại?",
+        "answers": [
+          "4 loại gồm xanh, vàng, đỏ, nâu",
+          "5 loại gồm xanh, vàng, đỏ, tím, nâu",
+          "6 loại gồm xanh, vàng, cam, đỏ, tím, nâu",
+          "7 loại gồm xanh, vàng, cam, hồng, đỏ, tím, nâu"
+        ]
+      },
+      {
+        "id": 25,
+        "question": "Các màu sắc nào sau đây được biểu thị cho chất lượng môi trường không khí ô nhiễm?",
+        "answers": [
+          "Cam, đỏ, tím, nâu",
+          "Xanh, cam, tím, nâu",
+          "Vàng, đỏ, tím, nâu",
+          "Vàng, cam, đỏ, tím"
+        ]
+      },
+      {
+        "id": 26,
+        "question": "Mức độ ô nhiễm không khí nghiêm trọng nhất được quy định bằng màu gì?",
+        "answers": [
+          "Đỏ",
+          "Nâu",
+          "Cam",
+          "Tím"
+        ]
+      },
+      {
+        "id": 27,
+        "question": "Theo khuyến cáo của Bộ Y tế, vào những ngày môi trường không khí bị ô nhiễm ở mức đỏ cần làm gì?",
+        "answers": [
+          "Hạn chế hoạt động ngoài trời, đóng cửa sổ",
+          "Đeo khẩu trang khi ra ngoài",
+          "Vệ sinh mũi, súc họng bằng nước muối sinh lý",
+          "Tất cả các biện pháp trên"
+        ]
+      },
+      {
+        "id": 28,
+        "question": "Ngày Môi trường thế giới hàng năm tổ chức vào ngày nào?",
+        "answers": [
+          "Ngày 4/6",
+          "Ngày 5/6",
+          "Ngày 6/6",
+          "Ngày 7/6"
+        ]
+      },
+      {
+        "id": 29,
+        "question": "Sự kiện Giờ Trái Đất được tổ chức vào thời gian nào trong năm?",
+        "answers": [
+          "Ngày thứ Bảy cuối cùng của tháng 2",
+          "Ngày thứ Bảy cuối cùng của tháng 3",
+          "Ngày thứ Bảy cuối cùng của tháng 4",
+          "Ngày thứ Bảy cuối cùng của tháng 5"
+        ]
+      },
+      {
+        "id": 30,
+        "question": "Hoạt động chính trong sự kiện Giờ Trái Đất là gì?",
+        "answers": [
+          "Tắt đèn và thiết bị điện không cần thiết trong 1 giờ",
+          "Nhặt rác, dọn vệ sinh môi trường sống",
+          "Tổ chức trồng cây",
+          "Đổi giấy vụn lấy cây xanh"
+        ]
+      },
+      {
+        "id": 31,
+        "question": "Theo bạn, xử lý đúng rác thải đúng cách là?",
+        "answers": [
+          "Chỉ bỏ rác vào thùng rác, phân loại, không tự đốt/chôn lấp.",
+          "Bỏ rác vào thùng, phân loại, không tự ý xử lý.",
+          "Phân loại và tự đốt/chôn lấp.",
+          "Bỏ vào thùng và tự đốt/chôn lấp."
+        ]
+      },
+      {
+        "id": 32,
+        "question": "Thải bỏ bừa bãi rác thải có thể gây ra hậu quả nào?",
+        "answers": [
+          "Gây ô nhiễm, tắc nghẽn, dịch bệnh, hại sinh vật, ảnh hưởng sức khỏe",
+          "Gây ô nhiễm và ảnh hưởng sức khỏe",
+          "Tắc nghẽn và dịch bệnh",
+          "Hại sinh vật và ảnh hưởng sức khỏe"
+        ]
+      },
+      {
+        "id": 33,
+        "question": "Để giảm phát sinh rác thải, chúng ta có thể làm gì?",
+        "answers": [
+          "Cân nhắc khi mua, mang túi cá nhân, hạn chế dùng một lần, tặng đồ cũ",
+          "Bỏ rác đúng nơi quy định",
+          "Sử dụng đồ dùng một lần rồi bỏ",
+          "Tiết kiệm rác thải"
+        ]
+      },
+      {
+        "id": 34,
+        "question": "Tái sử dụng rác thải là gì?",
+        "answers": [
+          "Sử dụng đồ dùng một lần rồi bỏ",
+          "Sử dụng đồ nhiều lần trước khi thải bỏ",
+          "Bỏ đồ cũ, mua đồ mới",
+          "Sử dụng lại rác cho mục đích phù hợp"
+        ]
+      },
+      {
+        "id": 35,
+        "question": "Vì sao cần hạn chế dùng túi ni-lông và nhựa dùng một lần?",
+        "answers": [
+          "Khó phân hủy, gây ô nhiễm, tắc nghẽn, làm trầm trọng ngập",
+          "Vì khó phân hủy và bị thải bỏ bừa bãi",
+          "Gây ô nhiễm và tắc nghẽn",
+          "Gây ô nhiễm, tắc nghẽn và ngập"
+        ]
+      },
+      {
+        "id": 36,
+        "question": "Giải pháp quan trọng nhất để giảm chất thải nhựa là gì?",
+        "answers": [
+          "Thu gom rác bị vứt bừa bãi",
+          "Nói không với đồ nhựa dùng một lần",
+          "Tái sử dụng chai nhựa",
+          "Phân loại để tái chế"
+        ]
+      },
+      {
+        "id": 37,
+        "question": "Nguyên nhân chính gây ô nhiễm môi trường đô thị là gì?",
+        "answers": [
+          "Di cư động vật hoang dã",
+          "Thiên tai",
+          "Chất thải từ sản xuất và sinh hoạt",
+          "Chu kỳ tự nhiên trái đất"
+        ]
+      },
+      {
+        "id": 38,
+        "question": "Rừng có ý nghĩa gì với môi trường sống?",
+        "answers": [
+          "Cung cấp động vật quý hiếm",
+          "Cung cấp gỗ, dược liệu quý",
+          "Điều hòa khí hậu, chống xói mòn, ngăn lũ",
+          "Nơi trú ẩn của động vật"
+        ]
+      },
+      {
+        "id": 39,
+        "question": "Thế nào là bảo vệ thiên nhiên hoang dã?",
+        "answers": [
+          "Bảo vệ loài sinh vật",
+          "Bảo vệ rừng đầu nguồn",
+          "Bảo vệ môi trường sống của sinh vật",
+          "Bảo vệ sinh vật và môi trường sống của chúng"
+        ]
+      },
+      {
+        "id": 40,
+        "question": "Bạn nên mang theo gì khi đi chợ?",
+        "answers": [
+          "Túi nilon",
+          "Túi giấy",
+          "Túi vải",
+          "Không mang gì"
+        ]
+      },
+      {
+        "id": 41,
+        "question": "Loại rác nào sau đây thuộc tái chế?",
+        "answers": [
+          "Vỏ dưa hấu",
+          "Chai nhựa",
+          "Rác thải y tế",
+          "Đồ ăn thừa"
+        ]
+      },
+      {
+        "id": 42,
+        "question": "Chất thải điện tử thuộc nhóm nào?",
+        "answers": [
+          "Tái chế",
+          "Vô cơ",
+          "Nguy hại",
+          "Hữu cơ"
+        ]
+      },
+      {
+        "id": 43,
+        "question": "Túi nilon mất bao lâu để phân hủy?",
+        "answers": [
+          "5 năm",
+          "20 năm",
+          "100 năm",
+          ">500 năm"
+        ]
+      },
+      {
+        "id": 44,
+        "question": "Đâu là hành động giúp bảo vệ môi trường?",
+        "answers": [
+          "Vứt rác bừa bãi",
+          "Tái sử dụng đồ vật",
+          "Đốt rác nhựa",
+          "Sử dụng túi nilon"
+        ]
+      },
+      {
+        "id": 45,
+        "question": "Cách tiết kiệm điện năng?",
+        "answers": [
+          "Bật đèn cả ngày",
+          "Tắt thiết bị không dùng",
+          "Mở máy lạnh suốt",
+          "Dùng điện giờ cao điểm"
+        ]
+      },
+      {
+        "id": 46,
+        "question": "Thùng rác màu xanh thường dùng để chứa gì?",
+        "answers": [
+          "Hữu cơ",
+          "Tái chế",
+          "Nguy hại",
+          "Vô cơ"
+        ]
+      },
+      {
+        "id": 47,
+        "question": "Thói quen nào giúp tiết kiệm nước?",
+        "answers": [
+          "Tắm 30 phút",
+          "Khoá vòi khi đánh răng",
+          "Xả nước liên tục",
+          "Tưới cây cả ngày"
+        ]
+      },
+      {
+        "id": 48,
+        "question": "Rác thải nhựa có thể gây hại như thế nào?",
+        "answers": [
+          "Phân huỷ nhanh",
+          "Làm đẹp thiên nhiên",
+          "Gây ô nhiễm",
+          "Bổ dưỡng cho đất"
+        ]
+      },
+      {
+        "id": 49,
         "question": "Làm thế nào để giảm rác thải?",
-        "answers": ["Dùng đồ nhựa", "Tái sử dụng, tái chế", "Xả rác ra đường", "Không phân loại rác"]
+        "answers": [
+          "Dùng đồ nhựa",
+          "Tái sử dụng, tái chế",
+          "Xả rác ra đường",
+          "Không phân loại rác"
+        ]
+      },
+      {
+        "id": 50,
+        "question": "Biện pháp nào giúp giảm lượng rác thải trong trường học?",
+        "answers": [
+          "Không phân loại rác",
+          "Tổ chức thu gom và tái chế",
+          "Mua thêm đồ nhựa",
+          "Xả rác ra sân trường"
+        ]
+      },
+      {
+        "id": 51,
+        "question": "Việc sử dụng nước rửa chén, xà phòng quá mức có thể gây ra?",
+        "answers": [
+          "Làm sạch môi trường",
+          "Ô nhiễm nguồn nước",
+          "Tăng năng suất nông nghiệp",
+          "Làm sạch đất"
+        ]
+      },
+      {
+        "id": 52,
+        "question": "Tại sao nên sử dụng sản phẩm thân thiện môi trường?",
+        "answers": [
+          "Rẻ hơn",
+          "Gây ít tác hại đến thiên nhiên",
+          "Thời trang hơn",
+          "Không cần phân loại"
+        ]
+      },
+      {
+        "id": 53,
+        "question": "Nguồn nước sinh hoạt cần được xử lý như thế nào?",
+        "answers": [
+          "Để tự nhiên",
+          "Lọc và khử khuẩn",
+          "Đun nóng",
+          "Trữ trong bể xi măng"
+        ]
+      },
+      {
+        "id": 54,
+        "question": "Giải pháp nào giúp giảm ô nhiễm không khí?",
+        "answers": [
+          "Đốt rác ngoài trời",
+          "Mở nhiều nhà máy",
+          "Trồng cây xanh đô thị",
+          "Sử dụng xe cũ"
+        ]
+      },
+      {
+        "id": 55,
+        "question": "Tại sao việc tái sử dụng nước mưa lại có lợi?",
+        "answers": [
+          "Giảm sử dụng nước sạch",
+          "Làm tăng nước thải",
+          "Gây ô nhiễm",
+          "Làm tốn chi phí"
+        ]
+      },
+      {
+        "id": 56,
+        "question": "Giấy tái chế giúp bảo vệ tài nguyên nào?",
+        "answers": [
+          "Than đá",
+          "Rừng cây",
+          "Nước biển",
+          "Khí gas"
+        ]
+      },
+      {
+        "id": 57,
+        "question": "Sử dụng túi giấy thay túi nilon giúp?",
+        "answers": [
+          "Tăng rác thải nhựa",
+          "Giảm ô nhiễm nhựa",
+          "Giảm lượng cây xanh",
+          "Gây mưa axit"
+        ]
+      },
+      {
+        "id": 58,
+        "question": "Hành động nhỏ nào có thể tạo thay đổi lớn?",
+        "answers": [
+          "Tắt đèn khi không dùng",
+          "Vứt rác đúng chỗ nhưng vẫn tiêu thụ nhiều",
+          "Dùng đồ nhựa nhiều lần",
+          "Xả rác ra suối"
+        ]
+      },
+      {
+        "id": 59,
+        "question": "Vì sao nên dùng xe đạp hoặc đi bộ thay xe máy?",
+        "answers": [
+          "Tốn sức hơn",
+          "Giảm khí thải gây ô nhiễm",
+          "Để tránh nắng",
+          "Tiết kiệm xăng dầu cho quốc gia"
+        ]
+      },
+      {
+        "id": 60,
+        "question": "Việc sử dụng giấy tái chế giúp gì?",
+        "answers": [
+          "Tăng ô nhiễm",
+          "Giảm giá trị kinh tế",
+          "Giảm chặt phá rừng",
+          "Gây ô nhiễm nguồn nước"
+        ]
+      },
+      {
+        "id": 61,
+        "question": "Biện pháp hiệu quả để giảm thiểu rác thải sinh hoạt là gì?",
+        "answers": [
+          "Phân loại rác tại nguồn",
+          "Vứt rác ra đường",
+          "Chôn rác bừa bãi",
+          "Đốt rác trong nhà"
+        ]
+      },
+      {
+        "id": 62,
+        "question": "Sử dụng bình đựng nước thay vì chai nhựa giúp gì?",
+        "answers": [
+          "Giảm rác thải nhựa",
+          "Làm đẹp môi trường",
+          "Gây ô nhiễm thêm",
+          "Tốn nhiều chi phí"
+        ]
+      },
+      {
+        "id": 63,
+        "question": "Thùng rác màu vàng thường dùng để chứa gì?",
+        "answers": [
+          "Rác tái chế",
+          "Rác nguy hại",
+          "Rác hữu cơ",
+          "Rác sinh học"
+        ]
+      },
+      {
+        "id": 64,
+        "question": "Một trong các nguyên tắc 3R là gì?",
+        "answers": [
+          "Reduce (Giảm thiểu)",
+          "Remove",
+          "React",
+          "Rebuild"
+        ]
+      },
+      {
+        "id": 65,
+        "question": "Ô nhiễm môi trường dẫn đến hậu quả nào sau đây?",
+        "answers": [
+          "Ảnh hưởng xấu đến quá trình sản xuất",
+          "Sự suy giảm sức khỏe và mức sống của con người",
+          "Sự tổn thất nguồn tài nguyên dự trữ",
+          "Cả ba đáp án trên"
+        ]
+      },
+      {
+        "id": 66,
+        "question": "Nguyên nhân chủ yếu gây ô nhiễm sinh học do vi sinh vật gây bệnh là gì?",
+        "answers": [
+          "Các chất thải không được thu gom",
+          "Các chất thải không được xử lí",
+          "Vi sinh vật gây bệnh phát triển trên những chất thải không được thu gom và không được xử lí đúng cách",
+          "Các chất thải được thu gom nhưng lại không được xử lí"
+        ]
+      },
+      {
+        "id": 67,
+        "question": "Biện pháp nào sau đây được coi là hiệu quả nhất trong việc hạn chế ô nhiễm môi trường?",
+        "answers": [
+          "Trồng nhiều cây xanh",
+          "Xây dựng các nhà máy xử lí rác thải",
+          "Bảo quản và sử dụng hợp lí hoá chất bảo vệ thực vật",
+          "Giáo dục nâng cao ý thức cho mọi người về bảo vệ môi trường"
+        ]
+      },
+      {
+        "id": 68,
+        "question": "Nguyên nhân dẫn đến ô nhiễm môi trường là gì?",
+        "answers": [
+          "Do hoạt động của con người gây ra",
+          "Do 1 số hoạt động của tự nhiên (núi lửa, lũ lụt ...)",
+          "Do con người thải rác ra sông",
+          "Do hoạt động của con người gây ra và do 1 số hoạt động của tự nhiên"
+        ]
+      },
+      {
+        "id": 69,
+        "question": "Nguồn gốc gây ô nhiễm sinh học chủ yếu do các chất thải như?",
+        "answers": [
+          "Phân, rác, nước thải sinh hoạt",
+          "Nước thải sinh hoạt, nước thải từ các bệnh viện",
+          "Xác chết của các sinh vật, nước thải từ các bệnh viện",
+          "Phân, rác, nước thải sinh hoạt, xác chết sinh vật, nước thải từ các bệnh viện"
+        ]
+      },
+      {
+        "id": 70,
+        "question": "Đối với những vùng đất trồng, đồi núi trọc thì biện pháp chủ yếu và cần thiết nhất là?",
+        "answers": [
+          "Trồng cây, gây rừng",
+          "Tiến hành chăn thả gia súc",
+          "Cày xới để làm nương, rẫy sản xuất cây lương thực",
+          "Làm nhà ở"
+        ]
+      },
+      {
+        "id": 71,
+        "question": "Theo hướng dẫn kỹ thuật phân loại rác tại nguồn của Bộ Tài nguyên và Môi trường, chất thải rắn sinh hoạt được phân làm mấy loại?",
+        "answers": [
+          "3 loại gồm: chất thải tái chế, chất thải thực phẩm và chất thải khác",
+          "4 loại gồm: chất thải tái chế, chất thải thực phẩm, chất thải nguy hại và chất thải khác",
+          "2 loại gồm: chất thải tái chế và chất thải không tái chế"
+        ]
+      },
+      {
+        "id": 72,
+        "question": "Những loại chất thải rắn sinh hoạt nào sau đây có thể tái chế được?",
+        "answers": [
+          "Giấy thải, nhựa thải, kim loại thải",
+          "Giấy thải, nhựa thải, kim loại thải, thuỷ tinh thải",
+          "Giấy thải, vải, đồ da, đồ gỗ, cao su, thiết bị điện tử thải bỏ",
+          "Tất cả các đáp án trên"
+        ]
+      },
+      {
+        "id": 73,
+        "question": "Chất thải nguy hại gồm những loại gì?",
+        "answers": [
+          "Bao bì đựng thuốc BVTV, axit thải, dung môi thải, bình gas mini, v.v.",
+          "Bóng đèn huỳnh quang thải; thủy tinh hoạt tính thải; nhiệt kế chứa thủy ngân thải.",
+          "Các loại pin, ắc quy thải.",
+          "Tất cả các loại trên"
+        ]
+      },
+      {
+        "id": 74,
+        "question": "Chất lượng môi trường không khí ở Việt Nam (VN AQI) được phân làm mấy loại?",
+        "answers": [
+          "4 loại gồm xanh, vàng, đỏ, nâu",
+          "5 loại gồm xanh, vàng, đỏ, tím, nâu",
+          "6 loại gồm xanh, vàng, cam, đỏ, tím, nâu",
+          "7 loại gồm xanh, vàng, cam, hồng, đỏ, tím, nâu"
+        ]
+      },
+      {
+        "id": 75,
+        "question": "Các màu sắc nào sau đây được biểu thị cho chất lượng môi trường không khí ô nhiễm?",
+        "answers": [
+          "Cam, đỏ, tím, nâu",
+          "Xanh, cam, tím, nâu",
+          "Vàng, đỏ, tím, nâu",
+          "Vàng, cam, đỏ, tím"
+        ]
+      },
+      {
+        "id": 76,
+        "question": "Mức độ ô nhiễm không khí nghiêm trọng nhất được quy định bằng màu gì?",
+        "answers": [
+          "Đỏ",
+          "Nâu",
+          "Cam",
+          "Tím"
+        ]
+      },
+      {
+        "id": 77,
+        "question": "Theo khuyến cáo của Bộ Y tế, vào những ngày môi trường không khí bị ô nhiễm ở mức đỏ cần làm gì?",
+        "answers": [
+          "Hạn chế hoạt động ngoài trời, đóng cửa sổ",
+          "Đeo khẩu trang khi ra ngoài",
+          "Vệ sinh mũi, súc họng bằng nước muối sinh lý",
+          "Tất cả các biện pháp trên"
+        ]
+      },
+      {
+        "id": 78,
+        "question": "Ngày Môi trường thế giới hàng năm tổ chức vào ngày nào?",
+        "answers": [
+          "Ngày 4/6",
+          "Ngày 5/6",
+          "Ngày 6/6",
+          "Ngày 7/6"
+        ]
+      },
+      {
+        "id": 79,
+        "question": "Sự kiện Giờ Trái Đất được tổ chức vào thời gian nào trong năm?",
+        "answers": [
+          "Ngày thứ Bảy cuối cùng của tháng 2",
+          "Ngày thứ Bảy cuối cùng của tháng 3",
+          "Ngày thứ Bảy cuối cùng của tháng 4",
+          "Ngày thứ Bảy cuối cùng của tháng 5"
+        ]
+      },
+      {
+        "id": 80,
+        "question": "Hoạt động chính trong sự kiện Giờ Trái Đất là gì?",
+        "answers": [
+          "Tắt đèn và thiết bị điện không cần thiết trong 1 giờ",
+          "Nhặt rác, dọn vệ sinh môi trường sống",
+          "Tổ chức trồng cây",
+          "Đổi giấy vụn lấy cây xanh"
+        ]
+      },
+      {
+        "id": 81,
+        "question": "Theo bạn, xử lý đúng rác thải đúng cách là?",
+        "answers": [
+          "Chỉ bỏ rác vào thùng rác, phân loại, không tự đốt/chôn lấp.",
+          "Bỏ rác vào thùng, phân loại, không tự ý xử lý.",
+          "Phân loại và tự đốt/chôn lấp.",
+          "Bỏ vào thùng và tự đốt/chôn lấp."
+        ]
+      },
+      {
+        "id": 82,
+        "question": "Thải bỏ bừa bãi rác thải có thể gây ra hậu quả nào?",
+        "answers": [
+          "Gây ô nhiễm, tắc nghẽn, dịch bệnh, hại sinh vật, ảnh hưởng sức khỏe",
+          "Gây ô nhiễm và ảnh hưởng sức khỏe",
+          "Tắc nghẽn và dịch bệnh",
+          "Hại sinh vật và ảnh hưởng sức khỏe"
+        ]
+      },
+      {
+        "id": 83,
+        "question": "Để giảm phát sinh rác thải, chúng ta có thể làm gì?",
+        "answers": [
+          "Cân nhắc khi mua, mang túi cá nhân, hạn chế dùng một lần, tặng đồ cũ",
+          "Bỏ rác đúng nơi quy định",
+          "Sử dụng đồ dùng một lần rồi bỏ",
+          "Tiết kiệm rác thải"
+        ]
+      },
+      {
+        "id": 84,
+        "question": "Tái sử dụng rác thải là gì?",
+        "answers": [
+          "Sử dụng đồ dùng một lần rồi bỏ",
+          "Sử dụng đồ nhiều lần trước khi thải bỏ",
+          "Bỏ đồ cũ, mua đồ mới",
+          "Sử dụng lại rác cho mục đích phù hợp"
+        ]
+      },
+      {
+        "id": 85,
+        "question": "Vì sao cần hạn chế dùng túi ni-lông và nhựa dùng một lần?",
+        "answers": [
+          "Khó phân hủy, gây ô nhiễm, tắc nghẽn, làm trầm trọng ngập",
+          "Vì khó phân hủy và bị thải bỏ bừa bãi",
+          "Gây ô nhiễm và tắc nghẽn",
+          "Gây ô nhiễm, tắc nghẽn và ngập"
+        ]
+      },
+      {
+        "id": 86,
+        "question": "Giải pháp quan trọng nhất để giảm chất thải nhựa là gì?",
+        "answers": [
+          "Thu gom rác bị vứt bừa bãi",
+          "Nói không với đồ nhựa dùng một lần",
+          "Tái sử dụng chai nhựa",
+          "Phân loại để tái chế"
+        ]
+      },
+      {
+        "id": 87,
+        "question": "Nguyên nhân chính gây ô nhiễm môi trường đô thị là gì?",
+        "answers": [
+          "Di cư động vật hoang dã",
+          "Thiên tai",
+          "Chất thải từ sản xuất và sinh hoạt",
+          "Chu kỳ tự nhiên trái đất"
+        ]
+      },
+      {
+        "id": 88,
+        "question": "Rừng có ý nghĩa gì với môi trường sống?",
+        "answers": [
+          "Cung cấp động vật quý hiếm",
+          "Cung cấp gỗ, dược liệu quý",
+          "Điều hòa khí hậu, chống xói mòn, ngăn lũ",
+          "Nơi trú ẩn của động vật"
+        ]
+      },
+      {
+        "id": 89,
+        "question": "Thế nào là bảo vệ thiên nhiên hoang dã?",
+        "answers": [
+          "Bảo vệ loài sinh vật",
+          "Bảo vệ rừng đầu nguồn",
+          "Bảo vệ môi trường sống của sinh vật",
+          "Bảo vệ sinh vật và môi trường sống của chúng"
+        ]
+      },
+      {
+        "id": 90,
+        "question": "Bạn nên mang theo gì khi đi chợ?",
+        "answers": [
+          "Túi nilon",
+          "Túi giấy",
+          "Túi vải",
+          "Không mang gì"
+        ]
+      },
+      {
+        "id": 91,
+        "question": "Đâu là năng lượng tái tạo ?",
+        "answers": [
+          "Hóa thạch",
+          "Than đá",
+          "Dầu mỏ",
+          "Mặt trời"
+        ]
+      },
+      {
+        "id": 92,
+        "question": "Nguyên nhân nào sau đây gây biến đổi khí hậu?",
+        "answers": [
+          "Chuyển động của các hành tinh",
+          "Sản xuất nông nghiệp",
+          "Sản xuất công nghiệp",
+          "Tái chế rác thải"
+        ]
+      },
+      {
+        "id": 93,
+        "question": "Thách thức lớn nhất trong việc triển khai hệ thống phân loại rác tại nguồn đồng bộ trên toàn quốc là gì?",
+        "answers": [
+          "Thiếu công nghệ phân loại rác tiên tiến",
+          "Chi phí đầu tư cho hệ thống thu gom và xử lý rác quá cao",
+          "Sự khác biệt lớn về thành phần rác thải và thói quen tiêu dùng giữa các vùng miền",
+          "Thiếu quy định rõ ràng về trách nhiệm phân loại rác."
+        ]
+      },
+      {
+        "id": 94,
+        "question": "Trong tương lai, việc ứng dụng trí tuệ nhân tạo (AI) vào phân loại rác ở Việt Nam có thể mang lại lợi ích lớn nhất nào?",
+        "answers": [
+          "Giảm thiểu chi phí đầu tư cho hệ thống phân loại rác",
+          "Nâng cao hiệu quả và chính xác của quá trình phân loại",
+          "Loại bỏ hoàn toàn nhu cầu phân loại rác tại nguồn của người dân",
+          "Giải quyết triệt để vấn đề ô nhiễm môi trường do rác thải"
+        ]
+      },
+      {
+        "id": 95,
+        "question": "Những thứ nào sau đây không gây ô nhiễm không khí?",
+        "answers": [
+          "Năng lượng mặt trời và năng lượng gió",
+          "Khí thải từ xe máy và ô tô",
+          "Khói từ việc đốt rác và than đá",
+          "Hơi từ các nhà máy công nghiệp không qua xử lý"
+        ]
+      },
+      {
+        "id": 96,
+        "question": "Khai thác gì không gây ảnh hưởng đến môi trường?",
+        "answers": [
+          "Khai thác than đá vì than là nguồn năng lượng sạch",
+          "Khai thác dầu mỏ vì nó nằm sâu dưới lòng đất nên không ảnh hưởng gì",
+          "Khai thác vàng bằng hóa chất giúp làm sạch môi trường biển",
+          "Khai thác năng lượng tái tạo như gió, mặt trời"
+        ]
+      },
+      {
+        "id": 97,
+        "question": "Hành vi nào dưới đây là vi phạm pháp luật về bảo vệ môi trường?",
+        "answers": [
+          "Thả động vật hoang dã về rừng",
+          "Phá rừng để trồng cây lương thực",
+          "Trồng cây phủ xanh đất trống, đồi trọc",
+          "Khai thác rừng theo kế hoạch"
+        ]
+      },
+      {
+        "id": 98,
+        "question": "Thùng rác có màu xanh lá là thùng đựng rác gì?",
+        "answers": [
+          "Rác hữu cơ",
+          "Rác tái chế",
+          "Rác nguy hại, lây nhiễm",
+          "Rác sinh hoạt"
+        ]
+      },
+      {
+        "id": 99,
+        "question": "Thùng rác có màu vàng là thùng đựng rác gì?",
+        "answers": [
+          "Rác hữu cơ",
+          "Rác tái chế",
+          "Rác nguy hại, lây nhiễm",
+          "Rác sinh hoạt"
+        ]
+      },
+      {
+        "id": 100,
+        "question": "Thùng rác có màu trắng là thùng đựng rác gì?",
+        "answers": [
+          "Rác hữu cơ",
+          "Rác tái chế",
+          "Rác nguy hại, lây nhiễm",
+          "Rác sinh hoạt"
+        ]
       }
     ],
     "results": [
-      { "quiz_id": 1, "answer": "Tái chế" },
-      { "quiz_id": 2, "answer": "Hữu cơ" },
-      { "quiz_id": 3, "answer": "Vô cơ" },
-      { "quiz_id": 4, "answer": "Nguy hại" },
-      { "quiz_id": 5, "answer": "Túi vải" },
-      { "quiz_id": 6, "answer": "Chai nhựa" },
-      { "quiz_id": 7, "answer": "Nguy hại" },
-      { "quiz_id": 8, "answer": ">500 năm" },
-      { "quiz_id": 9, "answer": "Hữu cơ" },
-      { "quiz_id": 10, "answer": "Vô cơ" },
-      { "quiz_id": 11, "answer": "Tái chế" },
-      { "quiz_id": 12, "answer": "Tái sử dụng đồ vật" },
-      { "quiz_id": 13, "answer": "Nguy hại" },
-      { "quiz_id": 14, "answer": "Vỏ cam" },
-      { "quiz_id": 15, "answer": "Tắt thiết bị không dùng" },
-      { "quiz_id": 16, "answer": "Tái chế" },
-      { "quiz_id": 17, "answer": "Khoá vòi khi đánh răng" },
-      { "quiz_id": 18, "answer": "Vô cơ" },
-      { "quiz_id": 19, "answer": "Gây ô nhiễm" },
-      { "quiz_id": 20, "answer": "Tái sử dụng, tái chế" }
+      {
+        "quiz_id": 1,
+        "answer": "Không xả rác xuống biển"
+      },
+      {
+        "quiz_id": 2,
+        "answer": "Tất cả các đáp án trên"
+      },
+      {
+        "quiz_id": 3,
+        "answer": "Túi nilon"
+      },
+      {
+        "quiz_id": 4,
+        "answer": "Ô nhiễm không khí"
+      },
+      {
+        "quiz_id": 5,
+        "answer": "Dùng chai nhựa một lần"
+      },
+      {
+        "quiz_id": 6,
+        "answer": "Tất cả các đáp án trên"
+      },
+      {
+        "quiz_id": 7,
+        "answer": "Trồng rừng mới"
+      },
+      {
+        "quiz_id": 8,
+        "answer": "Tiết kiệm điện"
+      },
+      {
+        "quiz_id": 9,
+        "answer": "Rác thải y tế"
+      },
+      {
+        "quiz_id": 10,
+        "answer": "Tái chế, tái sử dụng"
+      },
+      {
+        "quiz_id": 11,
+        "answer": "Túi vải"
+      },
+      {
+        "quiz_id": 12,
+        "answer": "Chai nhựa"
+      },
+      {
+        "quiz_id": 13,
+        "answer": "Nguy hại"
+      },
+      {
+        "quiz_id": 14,
+        "answer": "Rác nguy hại"
+      },
+      {
+        "quiz_id": 15,
+        "answer": "Tái sử dụng đồ vật"
+      },
+      {
+        "quiz_id": 16,
+        "answer": "Tắt thiết bị không dùng"
+      },
+      {
+        "quiz_id": 17,
+        "answer": "Tái chế"
+      },
+      {
+        "quiz_id": 18,
+        "answer": "Khoá vòi khi đánh răng"
+      },
+      {
+        "quiz_id": 19,
+        "answer": "Gây ô nhiễm"
+      },
+      {
+        "quiz_id": 20,
+        "answer": "Mang đi tái chế"
+      },
+      {
+        "quiz_id": 21,
+        "answer": "3 loại gồm: chất thải tái chế, chất thải thực phẩm và chất thải khác"
+      },
+      {
+        "quiz_id": 22,
+        "answer": "Tất cả các đáp án trên"
+      },
+      {
+        "quiz_id": 23,
+        "answer": "Tất cả các loại trên"
+      },
+      {
+        "quiz_id": 24,
+        "answer": "6 loại gồm xanh, vàng, cam, đỏ, tím, nâu"
+      },
+      {
+        "quiz_id": 25,
+        "answer": "Cam, đỏ, tím, nâu"
+      },
+      {
+        "quiz_id": 26,
+        "answer": "Nâu"
+      },
+      {
+        "quiz_id": 27,
+        "answer": "Tất cả các biện pháp trên"
+      },
+      {
+        "quiz_id": 28,
+        "answer": "Ngày 5/6"
+      },
+      {
+        "quiz_id": 29,
+        "answer": "Ngày thứ Bảy cuối cùng của tháng 3"
+      },
+      {
+        "quiz_id": 30,
+        "answer": "Tắt đèn và thiết bị điện không cần thiết trong 1 giờ"
+      },
+      {
+        "quiz_id": 31,
+        "answer": "Chỉ bỏ rác vào thùng rác, phân loại, không tự đốt/chôn lấp."
+      },
+      {
+        "quiz_id": 32,
+        "answer": "Gây ô nhiễm, tắc nghẽn, dịch bệnh, hại sinh vật, ảnh hưởng sức khỏe"
+      },
+      {
+        "quiz_id": 33,
+        "answer": "Cân nhắc khi mua, mang túi cá nhân, hạn chế dùng một lần, tặng đồ cũ"
+      },
+      {
+        "quiz_id": 34,
+        "answer": "Sử dụng lại rác cho mục đích phù hợp"
+      },
+      {
+        "quiz_id": 35,
+        "answer": "Khó phân hủy, gây ô nhiễm, tắc nghẽn, làm trầm trọng ngập"
+      },
+      {
+        "quiz_id": 36,
+        "answer": "Nói không với đồ nhựa dùng một lần"
+      },
+      {
+        "quiz_id": 37,
+        "answer": "Chất thải từ sản xuất và sinh hoạt"
+      },
+      {
+        "quiz_id": 38,
+        "answer": "Điều hòa khí hậu, chống xói mòn, ngăn lũ"
+      },
+      {
+        "quiz_id": 39,
+        "answer": "Bảo vệ sinh vật và môi trường sống của chúng"
+      },
+      {
+        "quiz_id": 40,
+        "answer": "Túi vải"
+      },
+      {
+        "quiz_id": 41,
+        "answer": "Chai nhựa"
+      },
+      {
+        "quiz_id": 42,
+        "answer": "Nguy hại"
+      },
+      {
+        "quiz_id": 43,
+        "answer": ">500 năm"
+      },
+      {
+        "quiz_id": 44,
+        "answer": "Tái sử dụng đồ vật"
+      },
+      {
+        "quiz_id": 45,
+        "answer": "Tắt thiết bị không dùng"
+      },
+      {
+        "quiz_id": 46,
+        "answer": "Tái chế"
+      },
+      {
+        "quiz_id": 47,
+        "answer": "Khoá vòi khi đánh răng"
+      },
+      {
+        "quiz_id": 48,
+        "answer": "Gây ô nhiễm"
+      },
+      {
+        "quiz_id": 49,
+        "answer": "Tái sử dụng, tái chế"
+      },
+      {
+        "quiz_id": 50,
+        "answer": "Tổ chức thu gom và tái chế"
+      },
+      {
+        "quiz_id": 51,
+        "answer": "Ô nhiễm nguồn nước"
+      },
+      {
+        "quiz_id": 52,
+        "answer": "Gây ít tác hại đến thiên nhiên"
+      },
+      {
+        "quiz_id": 53,
+        "answer": "Lọc và khử khuẩn"
+      },
+      {
+        "quiz_id": 54,
+        "answer": "Trồng cây xanh đô thị"
+      },
+      {
+        "quiz_id": 55,
+        "answer": "Giảm sử dụng nước sạch"
+      },
+      {
+        "quiz_id": 56,
+        "answer": "Rừng cây"
+      },
+      {
+        "quiz_id": 57,
+        "answer": "Giảm ô nhiễm nhựa"
+      },
+      {
+        "quiz_id": 58,
+        "answer": "Tắt đèn khi không dùng"
+      },
+      {
+        "quiz_id": 59,
+        "answer": "Giảm khí thải gây ô nhiễm"
+      },
+      {
+        "quiz_id": 60,
+        "answer": "Giảm chặt phá rừng"
+      },
+      {
+        "quiz_id": 61,
+        "answer": "Phân loại rác tại nguồn"
+      },
+      {
+        "quiz_id": 62,
+        "answer": "Giảm rác thải nhựa"
+      },
+      {
+        "quiz_id": 63,
+        "answer": "Rác tái chế"
+      },
+      {
+        "quiz_id": 64,
+        "answer": "Reduce (Giảm thiểu)"
+      },
+      {
+        "quiz_id": 65,
+        "answer": "Cả ba đáp án trên"
+      },
+      {
+        "quiz_id": 66,
+        "answer": "Vi sinh vật gây bệnh phát triển trên những chất thải không được thu gom và không được xử lí đúng cách"
+      },
+      {
+        "quiz_id": 67,
+        "answer": "Giáo dục nâng cao ý thức cho mọi người về bảo vệ môi trường"
+      },
+      {
+        "quiz_id": 68,
+        "answer": "Do hoạt động của con người gây ra và do 1 số hoạt động của tự nhiên"
+      },
+      {
+        "quiz_id": 69,
+        "answer": "Phân, rác, nước thải sinh hoạt, xác chết sinh vật, nước thải từ các bệnh viện"
+      },
+      {
+        "quiz_id": 70,
+        "answer": "Trồng cây, gây rừng"
+      },
+      {
+        "quiz_id": 71,
+        "answer": "3 loại gồm: chất thải tái chế, chất thải thực phẩm và chất thải khác"
+      },
+      {
+        "quiz_id": 72,
+        "answer": "Tất cả các đáp án trên"
+      },
+      {
+        "quiz_id": 73,
+        "answer": "Tất cả các loại trên"
+      },
+      {
+        "quiz_id": 74,
+        "answer": "6 loại gồm xanh, vàng, cam, đỏ, tím, nâu"
+      },
+      {
+        "quiz_id": 75,
+        "answer": "Cam, đỏ, tím, nâu"
+      },
+      {
+        "quiz_id": 76,
+        "answer": "Nâu"
+      },
+      {
+        "quiz_id": 77,
+        "answer": "Tất cả các biện pháp trên"
+      },
+      {
+        "quiz_id": 78,
+        "answer": "Ngày 5/6"
+      },
+      {
+        "quiz_id": 79,
+        "answer": "Ngày thứ Bảy cuối cùng của tháng 3"
+      },
+      {
+        "quiz_id": 80,
+        "answer": "Tắt đèn và thiết bị điện không cần thiết trong 1 giờ"
+      },
+      {
+        "quiz_id": 81,
+        "answer": "Chỉ bỏ rác vào thùng rác, phân loại, không tự đốt/chôn lấp."
+      },
+      {
+        "quiz_id": 82,
+        "answer": "Gây ô nhiễm, tắc nghẽn, dịch bệnh, hại sinh vật, ảnh hưởng sức khỏe"
+      },
+      {
+        "quiz_id": 83,
+        "answer": "Cân nhắc khi mua, mang túi cá nhân, hạn chế dùng một lần, tặng đồ cũ"
+      },
+      {
+        "quiz_id": 84,
+        "answer": "Sử dụng lại rác cho mục đích phù hợp"
+      },
+      {
+        "quiz_id": 85,
+        "answer": "Khó phân hủy, gây ô nhiễm, tắc nghẽn, làm trầm trọng ngập"
+      },
+      {
+        "quiz_id": 86,
+        "answer": "Nói không với đồ nhựa dùng một lần"
+      },
+      {
+        "quiz_id": 87,
+        "answer": "Chất thải từ sản xuất và sinh hoạt"
+      },
+      {
+        "quiz_id": 88,
+        "answer": "Điều hòa khí hậu, chống xói mòn, ngăn lũ"
+      },
+      {
+        "quiz_id": 89,
+        "answer": "Bảo vệ sinh vật và môi trường sống của chúng"
+      },
+      {
+        "quiz_id": 90,
+        "answer": "Túi vải"
+      },
+      {
+        "quiz_id": 91,
+        "answer": "Mặt trời"
+      },
+      {
+        "quiz_id": 92,
+        "answer": "Sản xuất công nghiệp"
+      },
+      {
+        "quiz_id": 93,
+        "answer": "Sự khác biệt lớn về thành phần rác thải và thói quen tiêu dùng giữa các vùng miền"
+      },
+      {
+        "quiz_id": 94,
+        "answer": "Nâng cao hiệu quả và chính xác của quá trình phân loại"
+      },
+      {
+        "quiz_id": 95,
+        "answer": "Năng lượng mặt trời và năng lượng gió"
+      },
+      {
+        "quiz_id": 96,
+        "answer": "Khai thác năng lượng tái tạo như gió, mặt trời"
+      },
+      {
+        "quiz_id": 97,
+        "answer": "Phá rừng để trồng cây lương thực"
+      },
+      {
+        "quiz_id": 98,
+        "answer": "Rác hữu cơ"
+      },
+      {
+        "quiz_id": 99,
+        "answer": "Rác tái chế"
+      },
+      {
+        "quiz_id": 100,
+        "answer": "Rác nguy hại, lây nhiễm"
+      }
     ]
   },
   "dragQuestion": [
-    { "name": "Vỏ chuối", "type": "Hữu cơ" },
-    { "name": "Ống hút nhựa", "type": "Vô cơ" },
-    { "name": "Giấy báo cũ", "type": "Tái chế" },
-    { "name": "Pin", "type": "Nguy hại" },
-    { "name": "Lá cây rụng", "type": "Hữu cơ" },
-    { "name": "Hộp xốp", "type": "Vô cơ" },
-    { "name": "Chai nhựa", "type": "Tái chế" },
-    { "name": "Thuốc trừ sâu hết hạn", "type": "Nguy hại" },
-    { "name": "Vỏ trứng", "type": "Hữu cơ" },
-    { "name": "Bóng đèn hỏng", "type": "Nguy hại" }
+    {
+      "name": "Ly nhựa trà sữa",
+      "type": "Vô cơ"
+    },
+    {
+      "name": "Muỗng nhựa dùng một lần",
+      "type": "Vô cơ"
+    },
+    {
+      "name": "Hộp cơm nhựa",
+      "type": "Vô cơ"
+    },
+    {
+      "name": "Ống hút giấy",
+      "type": "Tái chế"
+    },
+    {
+      "name": "Ly giấy cà phê",
+      "type": "Tái chế"
+    },
+    {
+      "name": "Túi nilon đựng bánh mì",
+      "type": "Vô cơ"
+    },
+    {
+      "name": "Bao bì mì gói",
+      "type": "Vô cơ"
+    },
+    {
+      "name": "Vỏ snack",
+      "type": "Vô cơ"
+    },
+    {
+      "name": "Chai nước khoáng",
+      "type": "Tái chế"
+    },
+    {
+      "name": "Lon nước tăng lực",
+      "type": "Tái chế"
+    },
+    {
+      "name": "Vỏ hộp sữa tươi",
+      "type": "Tái chế"
+    },
+    {
+      "name": "Đũa tre dùng một lần",
+      "type": "Hữu cơ"
+    },
+    {
+      "name": "Hộp xốp đựng thức ăn",
+      "type": "Vô cơ"
+    },
+    {
+      "name": "Vỏ bánh mì",
+      "type": "Hữu cơ"
+    },
+    {
+      "name": "Khăn giấy đã dùng",
+      "type": "Hữu cơ"
+    },
+    {
+      "name": "Xương gà",
+      "type": "Hữu cơ"
+    },
+    {
+      "name": "Trái cây ăn dở",
+      "type": "Hữu cơ"
+    },
+    {
+      "name": "Vỏ hộp bánh ngọt",
+      "type": "Tái chế"
+    },
+    {
+      "name": "Nắp chai nhựa",
+      "type": "Tái chế"
+    },
+    {
+      "name": "Bao đũa giấy",
+      "type": "Tái chế"
+    },
+    {
+      "name": "Vỏ chuối",
+      "type": "Hữu cơ"
+    },
+    {
+      "name": "Ống hút nhựa",
+      "type": "Vô cơ"
+    },
+    {
+      "name": "Sách báo cũ",
+      "type": "Tái chế"
+    },
+    {
+      "name": "Pin điện thoại",
+      "type": "Nguy hại"
+    },
+    {
+      "name": "Lá cây rụng",
+      "type": "Hữu cơ"
+    },
+    {
+      "name": "Hộp xốp",
+      "type": "Vô cơ"
+    },
+    {
+      "name": "Chai nhựa",
+      "type": "Tái chế"
+    },
+    {
+      "name": "Thuốc trừ sâu hết hạn",
+      "type": "Nguy hại"
+    },
+    {
+      "name": "Vỏ trứng",
+      "type": "Hữu cơ"
+    },
+    {
+      "name": "Bóng đèn hỏng",
+      "type": "Nguy hại"
+    },
+    {
+      "name": "Thùng giấy carton",
+      "type": "Tái chế"
+    },
+    {
+      "name": "Vỏ chai thủy tinh",
+      "type": "Tái chế"
+    },
+    {
+      "name": "Túi nilon",
+      "type": "Vô cơ"
+    },
+    {
+      "name": "Nhựa mềm",
+      "type": "Vô cơ"
+    },
+    {
+      "name": "Rác thải y tế",
+      "type": "Nguy hại"
+    },
+    {
+      "name": "Vỏ dừa",
+      "type": "Hữu cơ"
+    },
+    {
+      "name": "Tấm ván gỗ cũ",
+      "type": "Tái chế"
+    },
+    {
+      "name": "Bình gas cũ",
+      "type": "Nguy hại"
+    },
+    {
+      "name": "Cơm thừa",
+      "type": "Hữu cơ"
+    },
+    {
+      "name": "Túi trà đã dùng",
+      "type": "Hữu cơ"
+    },
+    {
+      "name": "Đĩa sứ vỡ",
+      "type": "Vô cơ"
+    },
+    {
+      "name": "Gạch vụn",
+      "type": "Vô cơ"
+    },
+    {
+      "name": "Lon nước ngọt",
+      "type": "Tái chế"
+    },
+    {
+      "name": "Vỏ hộp sữa",
+      "type": "T ái chế"
+    },
+    {
+      "name": "Bình acquy",
+      "type": "Nguy hại"
+    },
+    {
+      "name": "Vỏ cà phê",
+      "type": "Hữu cơ"
+    },
+    {
+      "name": "Bã mía",
+      "type": "Hữu cơ"
+    },
+    {
+      "name": "Thức ăn thừa",
+      "type": "Hữu cơ"
+    },
+    {
+      "name": "Cành cây khô",
+      "type": "Hữu cơ"
+    },
+    {
+      "name": "Bánh mì mốc",
+      "type": "Hữu cơ"
+    },
+    {
+      "name": "Gương vỡ",
+      "type": "Vô cơ"
+    },
+    {
+      "name": "Sứ bể",
+      "type": "Vô cơ"
+    },
+    {
+      "name": "Bóng đèn huỳnh quang",
+      "type": "Vô cơ"
+    },
+    {
+      "name": "Hộp nhựa",
+      "type": "Tái chế"
+    },
+    {
+      "name": "Vỏ hộp bánh kẹo",
+      "type": "Tái chế"
+    },
+    {
+      "name": "Thuốc hết hạn",
+      "type": "Nguy hại"
+    },
+    {
+      "name": "Bình thuốc xịt côn trùng",
+      "type": "Nguy hại"
+    },
+    {
+      "name": "Dung dịch tẩy rửa",
+      "type": "Nguy hại"
+    },
+    {
+      "name": "Nhiệt kế thủy ngân",
+      "type": "Nguy hại"
+    }
   ]
 }
