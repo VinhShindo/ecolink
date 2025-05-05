@@ -48,8 +48,26 @@ fetch("data.txt")
     .then(res => res.text())
     .then(data => {
         data = JSON.parse(data);
-        multipleData = data["multipleChoice"];
-        trashData = data["dragQuestion"];
+        
+        function getRandomSubset(arr, n) {
+            const shuffled = arr.sort(() => 0.5 - Math.random());
+            return shuffled.slice(0, n);
+        }
+
+        const fullQuizz = data["multipleChoice"]["quizz"];
+        const fullResults = data["multipleChoice"]["results"];
+        const selectedQuizz = getRandomSubset(fullQuizz, 20);
+
+        const selectedIds = selectedQuizz.map(q => q.id);
+        const selectedResults = fullResults.filter(r => selectedIds.includes(r.quiz_id));
+
+        multipleData = {
+            quizz: selectedQuizz,
+            results: selectedResults
+        };
+
+        trashData = getRandomSubset(data["dragQuestion"], 12);
+
         renderQuestion(multipleData);
         loadTrashItems();
         enableTouchSupport();
