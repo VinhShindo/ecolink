@@ -288,12 +288,12 @@ function processTrashScore() {
 function showScoreOverlay() {
     const timeUsed = `${Math.floor(elapsedTime / 60).toString().padStart(2, '0')}:${(elapsedTime % 60).toString().padStart(2, '0')}`;
     const total = quizScore + dragScore;
-    const rating = total >= 25 ? "⭐ Xuất sắc" : total >= 18 ? "👍 Tốt" : "🔄 Cần cải thiện";
+    const rating = total >= 26 ? "⭐ Xuất sắc" : total >= 18 ? "👍 Tốt" : "🔄 Cần cải thiện";
 
     document.querySelector("#time-used span").textContent = timeUsed;
     document.querySelector("#select-score span").textContent = `${quizScore}/20`;
     document.querySelector("#trash-score span").textContent = `${dragScore}/10`;
-    document.querySelector(".all-score span").textContent = `${total}/30 - ${rating}`;
+    document.querySelector(".all-score span").textContent = `${total}/32 - ${rating}`;
     document.getElementById("overlay").style.display = "block";
     document.getElementById("final-score").style.display = "block";
 }
